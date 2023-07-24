@@ -1,0 +1,24 @@
+{
+  "commentator_name": "Dick Pooper",
+  "contenders": [
+    {
+      "name": "Mr. Smith",
+      "skills": [
+        "strength",
+        "speed",
+        "intelligence"
+      ],
+      "additional_info": "Mr. Smith is a very strong contender."
+    },
+    {
+      "name": "Richard",
+      "skills": [
+        "agility",
+        "craftiness"
+      ],
+      "additional_info": "Richard has won a number of past races. You can't trust him though. He might cheat."
+    }
+  ],
+  "track_profile": "It is a very challenging track. It is a maze, the are no obstacles.",
+  "other_info": "It is a beautiful clear day today here in the city."
+}
