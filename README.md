@@ -1,4 +1,4 @@
-# ai_ratrace_live_commentator
+# Live AI Commentary for Rat Races
 A live, expressive commentary for a rat race with ChatGPT and Elevenlabs
 
 See the Jupyer Notebook -- it contains markdown cells wth some description on how to use it.
