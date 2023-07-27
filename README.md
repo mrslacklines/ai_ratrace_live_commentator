@@ -19,7 +19,7 @@ Put you API keys for OpenAI and Elevenlabs in the .env file. Edit `race_data.jso
 ```
 cd <PROJECT_PATH>
 source venv/bin/activate
-jupyter notebook
+python -m jupyter notebook
 ```
 Open the `stream_audio_commentary.ipynb` notebook and run all cells. The last cell contains a loop that will keep asking for a stage name for which to generate audio output. The available stage names are:
 
